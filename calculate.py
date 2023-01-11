@@ -5,5 +5,5 @@ def add(a,b):
 def subtract(a,b):
     return a-b
 
-def div_pre(a,b):
+def div_new(a,b):
     return a/b
